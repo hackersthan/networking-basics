@@ -1,7 +1,7 @@
 # networking basics
 
 📘 Networking : How The Computer Works [Ebook]  
-https://github.com/hackersthan/Networking-eBook  
+https://github.com/hackersthan/networking-Ebook
 
 
 #### OSI Model :  
